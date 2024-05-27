@@ -4,26 +4,20 @@
 
 Geeker-Admin 一款基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的后台管理框架，使用目前最新技术栈开发。项目提供强大的 [ProTable](https://juejin.cn/post/7166068828202336263) 组件，在一定程度上提高您的开发效率。另外本项目还封装了一些常用组件、Hooks、指令、动态路由、按钮级别权限控制等功能。
 
-### React 版本 🔥
-
-- 有需要请加底部微信了解、购买
-
-- Link：https://pro.spicyboy.cn
-
 ### 在线预览 👀
 
-- Link：https://admin.spicyboy.cn
+- Link：<https://admin.spicyboy.cn>
 
 ### 代码仓库 ⭐
 
-- Gitee：https://gitee.com/HalseySpicy/Geeker-Admin
-- GitHub：https://github.com/HalseySpicy/Geeker-Admin
+- Gitee：<https://gitee.com/HalseySpicy/Geeker-Admin>
+- GitHub：<https://github.com/HalseySpicy/Geeker-Admin>
 
 ### 项目文档 📚
 
 - 项目更新日志：[CHANGELOG.md](./CHANGELOG.md)
 
-- 项目文档地址：https://docs.spicyboy.cn
+- 项目文档地址：<https://docs.spicyboy.cn>
 
 ### 项目功能 🔨
 
@@ -189,8 +183,8 @@ Geeker-Admin
 
 项目后台接口完全采用 Mock 数据，感谢以下 Mock 平台支持：
 
-- FastMock： https://www.fastmock.site
-- EasyMock：https://mock.mengxuegu.com
+- FastMock： <https://www.fastmock.site>
+- EasyMock：<https://mock.mengxuegu.com>
 
 ### 微信交流群 👨‍👨‍👦‍👦
 
